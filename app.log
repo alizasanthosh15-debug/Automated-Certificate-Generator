@@ -1,0 +1,98 @@
+2026-03-03 13:23:23,117 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:23:23,211 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-03 13:23:23,211 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-03 13:23:23,211 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 13:23:24,396 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:23:24,555 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 13:23:24,555 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 13:31:12,166 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\__init__.py', reloading
+2026-03-03 13:31:12,758 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 13:31:13,759 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:31:13,850 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 13:31:13,857 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 13:31:50,560 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\routes\\certificate_routes.py', reloading
+2026-03-03 13:31:50,835 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 13:31:51,867 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:31:52,137 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 13:31:52,145 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 13:36:23,548 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:36:23,701 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-03 13:36:23,701 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-03 13:36:23,707 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 13:36:24,853 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:36:24,986 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 13:36:24,993 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 13:43:19,903 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:43:20,010 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-03 13:43:20,010 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-03 13:43:20,010 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 13:43:21,032 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 13:43:21,115 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 13:43:21,115 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:29:39,916 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\db.py', reloading
+2026-03-03 14:29:39,916 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\db.py', reloading
+2026-03-03 14:29:40,720 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\db.py', reloading
+2026-03-03 14:29:40,959 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:29:40,971 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:29:41,606 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:29:42,579 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:29:42,579 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:29:42,718 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:29:42,728 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:29:42,728 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:29:42,728 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:29:46,808 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\__init__.py', reloading
+2026-03-03 14:29:46,817 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\__init__.py', reloading
+2026-03-03 14:29:46,817 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\__init__.py', reloading
+2026-03-03 14:29:47,006 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:29:47,013 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:29:47,039 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:29:47,829 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:29:47,833 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:29:47,851 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:29:48,234 - app.db - WARNING - ensure_certificates_columns: 1060 (42S21): Duplicate column name 'email_status'
+2026-03-03 14:29:48,239 - app.db - WARNING - ensure_certificates_columns: 1060 (42S21): Duplicate column name 'email_status'
+2026-03-03 14:29:48,283 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:29:48,288 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:29:48,288 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:29:48,288 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:29:48,290 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:31:57,872 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\routes\\auth_routes.py', reloading
+2026-03-03 14:31:57,909 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\db.py', reloading
+2026-03-03 14:31:57,932 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\models\\user_model.py', reloading
+2026-03-03 14:31:58,406 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:31:58,406 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:31:58,416 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:31:59,916 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:31:59,950 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:31:59,967 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:32:00,135 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:32:00,139 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:32:00,185 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:32:00,188 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:32:00,202 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\__init__.py', reloading
+2026-03-03 14:32:00,235 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:32:00,235 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:32:00,284 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\services\\email_service.py', reloading
+2026-03-03 14:32:00,469 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:32:00,566 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:32:01,248 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app.py', reloading
+2026-03-03 14:32:01,568 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:32:01,692 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:32:01,800 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:32:01,803 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:32:01,805 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:32:01,917 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:32:01,917 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:32:02,633 - app.routes.certificate_routes - INFO - DB config (env): host=localhost db=acg01 user=root
+2026-03-03 14:32:02,782 - werkzeug - WARNING -  * Debugger is active!
+2026-03-03 14:32:02,786 - werkzeug - INFO -  * Debugger PIN: 326-592-210
+2026-03-03 14:33:22,359 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\config.py', reloading
+2026-03-03 14:33:22,520 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\services\\background_task_manager.py', reloading
+2026-03-03 14:33:22,770 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:33:22,854 - werkzeug - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\certificate generator - Copy\\backend\\app\\services\\pdf_service.py', reloading
+2026-03-03 14:33:22,911 - werkzeug - INFO -  * Restarting with stat
+2026-03-03 14:33:23,268 - werkzeug - INFO -  * Restarting with stat
